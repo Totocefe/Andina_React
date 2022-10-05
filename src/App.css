@@ -1,0 +1,103 @@
+.App {
+ 
+  
+  display: flex;
+  justify-content: space-around;
+}
+
+.contenedorDatos {
+
+  width: 30%;
+}
+
+.encabezado {
+  
+  background-color:  rgb(99, 153, 99);
+
+}
+
+.header img{
+  width: 5%;
+}
+
+.link{
+  color:white;
+  text-decoration: none;
+}
+
+.active{
+  font-weight: bold;
+  font-size: 36px;
+  color: whitesmoke;
+}
+
+.contenedorCantidades{
+  width: 50%;
+ background-color:whitesmoke;
+  font-size: 16px;
+  border: 1px solid #CCC;
+  border-radius: 20px;
+  padding: 0px 20px 20px 20px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.numero{
+  color: rgb(99, 153, 99);
+  font-weight: bold;
+  font-size: 2vw;
+}
+
+
+.titulo{
+  color: rgb(99, 153, 99) ;
+  font-weight: bold;
+}
+
+.userdato1, .userdato2, .userdato3{
+  font-size: 16px;
+}
+
+.productdato1, .productdato2, .productdato3, .productdato4{
+  font-size: 16px;
+}
+
+.dato1{
+  font-size: 10px;;
+}
+
+.dato2{
+  font-size: 20px;;
+  
+}
+
+.dato3{
+  font-size: 14px;;
+}
+
+h5{
+  font-size: 2vw;
+}
+
+h2{
+  color: white;
+}
+
+.listadoProductos{
+   width: 63vw;
+ background-color:whitesmoke;
+  font-size: 2vw;
+  border: 1px solid #CCC;
+  border-radius: 20px;
+  padding: 0px 20px 20px 20px;
+  margin-top: 80px;
+  margin-left: 30px;
+}
+
+span{
+  margin-right: 25px;
+}
+
+Link{
+  color: white;
+}
